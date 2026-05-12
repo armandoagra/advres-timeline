@@ -2,7 +2,7 @@
 
 Abra a cena Scene1 em Scenes/Scene1.unity
 
-Dê play para assistir a cutscene
+Dê play e clique 'E' para assistir a cutscene. Clique 'E' para prosseguir na cutscene.
 
 # Entendendo o funcionamento
 
