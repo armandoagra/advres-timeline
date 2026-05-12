@@ -14,6 +14,7 @@ Explore os GameObjects e arquivos:
 1. GameObject "director" e seu componente PlayableDirector
 2. Arquivo Scene1Timeline.playable (clique duas vezes para abrir a janela de Timeline)
 3. GameObjects Cinemachine Cameras: "entrance camera", "freezers camera", ...
+4. GameObject "Tutorial Text" e seu componente Signal Receiver
 
 ## Componentes
 1. Playable Director: componente colocado em um GameObject; é quem reproduz a Timeline;
